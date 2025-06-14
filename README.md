@@ -1,3 +1,16 @@
+# THIS REPOSITORY HAS MOVED
+Development will continue here: https://github.com/nirw4nna/dsc
+
+**Note:** DSC started as an array framework for signal processing applications, over time I've started experimenting
+more and more with GPU programming and machine learning applications. Now, my main goal for DSC is to turn it into an
+efficient inference engine for machine learning with a very clean PyTorch-like API.
+
+Anyways, if you are interested in using or experimenting with this library for signal-processing related stuff let's get in touch!
+
+Original README content below.
+
+---
+
 # DSC
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Unit Tests](https://github.com/dspcraft/dsc/actions/workflows/tests.yml/badge.svg)](https://github.com/dspcraft/dsc/actions/workflows/tests.yml)

@@ -1,9 +1,8 @@
 name: Unit Tests
 on:
   push:
-    branches:
-      - main
-  pull_request:
+    tags:
+      - 'disabled'
 
 jobs:
   build_and_test:
